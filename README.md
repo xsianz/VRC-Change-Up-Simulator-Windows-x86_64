@@ -1,7 +1,7 @@
 # VRC-Change-Up-Simulator-Windows-x86_64
 ### Current Version: Build 0dc 
 
-VRC Change Up Simulator </br> Singleplayer only, unfortunately :(
+VRC Change Up Simulator </br> No multiplayer support, unfortunately :(
 
 ## Running the simulator
 ### Running on Windows 
