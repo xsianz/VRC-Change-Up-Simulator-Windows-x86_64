@@ -36,7 +36,7 @@ VEX Change Up Field Model - Codec from VEX Forums (https://www.vexforum.com/t/ch
 </br>VEX Parts STL file - Arda Aygün from 63800A (https://grabcad.com/library/vex-robotics-stl-files-1)
 </br>VEX Parts STEP file - VEX Website (https://www.vexrobotics.com/vexedr/products)
 
-</br></br>Icons:
+</br>Icons:
 </br>[Back arrow icon](https://i.ya-webdesign.com/images/back-arrow-icon-png-5.png)
 </br>["i" icon](https://lh3.googleusercontent.com/proxy/4Ld2ZkVucTbS__l82kJdXMuQEJ2eBQTbowiX4X4FfFSPXLZMQDHhFIcEom_wjCP1LwnshVmOwrO5gRus00q1b61Bk0o_3pav4WPVjcyo7s0LFQs)
 </br>[Refresh icon](https://i.ya-webdesign.com/images/refresh-button-png.png)
