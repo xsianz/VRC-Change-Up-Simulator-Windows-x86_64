@@ -7,7 +7,7 @@ VRC Change Up Simulator </br> Singleplayer only, unfortunately :(
 ### Running on Windows 
 1. Download the repository as ZIP
 2. Unzip the folder
-3. Run VRC Change Up (Build 0d) .exe file (the one with the Unity logo)
+3. Run `VRC Change Up (Build 0dc).exe` (the one with the Unity logo)
 
 ### Running on WebGL (online) - no download required
 1. Open this link: https://xsianz.github.io/VRC-Change-Up-Simulator-WebGL/ 
