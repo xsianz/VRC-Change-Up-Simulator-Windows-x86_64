@@ -30,3 +30,16 @@ Build 0dc (Uploaded 220520 2022)
 - Added information panel 
 - Improvements to intake, outtake and score code
 - Minor UI fixes
+
+## Credits
+VEX Change Up Field Model - Codec from VEX Forums (https://www.vexforum.com/t/change-up-field-blender-file/79721)
+VEX Parts STL file - Arda Aygün from 63800A (https://grabcad.com/library/vex-robotics-stl-files-1)
+VEX Parts STEP file - VEX Website (https://www.vexrobotics.com/vexedr/products)
+
+Icons:
+[Back arrow icon] (https://i.ya-webdesign.com/images/back-arrow-icon-png-5.png)
+["i" icon] (https://lh3.googleusercontent.com/proxy/4Ld2ZkVucTbS__l82kJdXMuQEJ2eBQTbowiX4X4FfFSPXLZMQDHhFIcEom_wjCP1LwnshVmOwrO5gRus00q1b61Bk0o_3pav4WPVjcyo7s0LFQs)
+[Refresh icon] (https://i.ya-webdesign.com/images/refresh-button-png.png)
+[Joystick clipart] (https://clipartstation.com/wp-content/uploads/2017/11/joystick-clipart-2.jpg)
+[White wall texture] (https://img.freepik.com/free-photo/white-wall-texture-background_133982-121.jpg?size=626&ext=jpg)
+[Wood floor texture] (https://i.pinimg.com/originals/8b/ac/83/8bac8376695823d9065bd96701a688ab.jpg)
