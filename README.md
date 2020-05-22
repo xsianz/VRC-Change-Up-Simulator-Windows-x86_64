@@ -11,10 +11,11 @@ VRC Change Up Simulator </br> Singleplayer only, unfortunately :(
 
 ### Running on WebGL (online) - no download required
 1. Open this link: https://xsianz.github.io/VRC-Change-Up-Simulator-WebGL/ 
-- Do note that Unity WebGL player takes quite long to load. Running directly from Windows is much faster.
+- Do note that Unity WebGL player takes quite long to load. If the page becomes unresponsive, do not kill it - wait for it to load. 
+- Running directly from Windows is much faster.
 
 ## Unity project (scenes and scripts)
-1. Download the project from here: https://drive.google.com/drive/folders/16ei1NJR3pWp3p6V1E470pbxPm0-Pd3wy?usp=sharing
+1. Download the project from here: https://drive.google.com/drive/folders/16ei1NJR3pWp3p6V1E470pbxPm0-Pd3wy?usp=sharing (file was too large for uploading to github)
 2. Unzip the project and load it from Unity Hub
 
 Caveats: 
