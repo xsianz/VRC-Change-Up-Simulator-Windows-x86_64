@@ -5,7 +5,7 @@ VRC Change Up Simulator </br> No multiplayer support, unfortunately :(
 
 ## Running the simulator
 ### Running on Windows 
-1. Download the repository as ZIP
+1. Download this repository as ZIP
 2. Unzip the folder
 3. Run `VRC Change Up (Build 0dc).exe` (the one with the Unity logo)
 
